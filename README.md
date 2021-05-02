@@ -35,7 +35,7 @@ Sistema de cadastro de dicas
 
 =======================================
 
-   F U N C I O N A L I D A D E S
+   F U N C I O N A L I D A D E S:
 
 =======================================
 
